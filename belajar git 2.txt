@@ -1,1 +1,3 @@
 file ini hanya untuk belajar git
+
+percobaan belajar ke 2
