@@ -1,0 +1,3 @@
+MENGETAHUI PERBEDAAN ANTARA GIT DAN GITHUB :
+Git menangani commands yang berbeda dan cenderung fokus pada tugas-tugas SCM yang eksklusif seperti push and pull, reset, commit, fetch, dan merge. 
+Sedangkan Github berfungsi sebagai tuan rumah terhadap repository Git dalam penyimpanan kode di lokasi yang terpusat.
